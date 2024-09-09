@@ -1,2 +1,4 @@
 "Contacts Manager.xcodeproj"/
 "Contacts Manager"/
+*.h
+*.m
